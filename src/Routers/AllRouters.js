@@ -1,7 +1,6 @@
 import react from "react";
 import { Route, Switch } from "react-router-dom";
-import CovidTracker from "../components/CovidTracker";
-import Login from "../components/Login";
+import Main from "./components/Main";
 const AllRouters = () => {
   return (
     <Switch>
